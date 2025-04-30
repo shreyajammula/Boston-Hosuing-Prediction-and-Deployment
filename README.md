@@ -18,7 +18,7 @@ This web application predicts the median housing cost in different areas in Bost
 
 1. **Clone the repository:**
    ```bash
-    git clone https://github.com/AjayK47/Boston-Hosuing-Prediction-and-Deployment-.git
+    git clone https://github.com/shreyajammula/Boston-Hosuing-Prediction-and-Deployment-.git
     ```
 2. Install dependencies:
    ```bash
